@@ -1,0 +1,27 @@
+{
+  "name": "random",
+  "version": "1.0.0",
+  "description": "Generate a random output.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Wong",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "crypto-random-string": "^3.3.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cytim/cli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "bugs": {
+    "url": "https://github.com/cytim/cli/issues"
+  },
+  "homepage": "https://github.com/cytim/cli#readme"
+}
